@@ -16,6 +16,9 @@ keywords:
   - deflated Sharpe ratio
   - backtesting
   - prediction markets
+  - walk-forward validation
+  - combinatorial purged cross-validation
+  - crypto funding carry
 abstract: >-
   Soft Actor-Critic trading agents evaluated with walk-forward and combinatorial purged
   cross-validation, reporting out-of-sample statistics that count every reported variant.

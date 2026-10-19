@@ -14,9 +14,11 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/landtml/SoftEdge/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/landtml/SoftEdge/actions/workflows/ci.yml/badge.svg?branch=main"></a>
   <img alt="Python 3.11+" src="https://img.shields.io/badge/python-3.11%2B-3776AB">
   <img alt="PyTorch CPU" src="https://img.shields.io/badge/PyTorch-CPU-EE4C2C">
-  <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-green">
+  <a href="LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-green"></a>
+  <a href="CITATION.cff"><img alt="Cite this repository" src="https://img.shields.io/badge/cite-CITATION.cff-orange"></a>
   <img alt="Status: open research" src="https://img.shields.io/badge/status-open%20research-blue">
 </p>
 

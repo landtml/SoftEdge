@@ -22,14 +22,25 @@ keywords = [
     "deflated-sharpe-ratio",
     "backtesting",
     "pytorch",
+    "deep-reinforcement-learning",
+    "walk-forward",
+    "cpcv",
+    "carry-trade",
+    "funding-rate",
+    "quant",
 ]
 classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "License :: OSI Approved :: MIT License",
     "Intended Audience :: Science/Research",
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
     "Topic :: Office/Business :: Financial :: Investment",
+    "Topic :: Scientific/Engineering :: Information Analysis",
 ]
 dependencies = [
     "numpy>=1.26",
@@ -50,6 +61,9 @@ softedge = "softedge.cli:main"
 [project.urls]
 Homepage = "https://github.com/landtml/SoftEdge"
 Repository = "https://github.com/landtml/SoftEdge"
+Documentation = "https://github.com/landtml/SoftEdge/tree/main/docs"
+Explainer = "https://landtml.github.io/SoftEdge/"
+Changelog = "https://github.com/landtml/SoftEdge/blob/main/CHANGELOG.md"
 Issues = "https://github.com/landtml/SoftEdge/issues"
 
 [tool.setuptools.packages.find]
